@@ -102,3 +102,9 @@ body {
 .triple {
     flex-basis: 73%;
 }
+
+@media (max-width: 412px) {
+    .screen{
+        width: 210px;
+    }
+}
